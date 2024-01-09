@@ -1,0 +1,22 @@
+*.iml
++*.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+*.idea\libraries\
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+Universal_Education_System/.gradle/6.1.1/fileHashes/fileHashes.lock
+Universal_Education_System/.gradle/6.1.1/fileHashes/fileHashes.lock
+*/.idea
+Al Fateh Schools & Colleges (ESM)/.idea/
+*.lock
+*/.gradle
