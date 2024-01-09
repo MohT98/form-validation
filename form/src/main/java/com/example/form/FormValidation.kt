@@ -1,8 +1,6 @@
 package com.example.form
 
 import android.content.Context
-import android.view.View
-import android.widget.AutoCompleteTextView
 import android.widget.EditText
 import android.widget.Toast
 
