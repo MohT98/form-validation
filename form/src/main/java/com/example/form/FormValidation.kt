@@ -6,7 +6,8 @@ import android.widget.AutoCompleteTextView
 import android.widget.EditText
 import android.widget.Toast
 
-class FormValidation {
+object FormValidation {
+
 
     fun editTextEmptyValidation(context:Context,editText: EditText,msg:String):Boolean{
 
