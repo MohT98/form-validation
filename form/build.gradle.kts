@@ -31,6 +31,22 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+
+
+
+
+}
+afterEvaluate {
+    publishing {
+        publications {
+            create<MavenPublication>("release") {
+                from(components["release"])
+                groupId = "com.example"
+                artifactId = "mint-android-app"
+                version = "1.0"
+            }
+        }
+    }
 }
 
 
